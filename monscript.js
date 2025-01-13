@@ -1,0 +1,1 @@
+alert("Ceci viens de mon fichier Js");
